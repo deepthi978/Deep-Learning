@@ -1,1 +1,1 @@
-<b>Project Demo Video Link<b><br>https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7822c8b0-5466-4446-aae4-b1320034cf5f![image](https://github.com/deepthi978/Deep-Learning/assets/146125026/fe62a1aa-af34-47f9-b056-181d3de96c0e)
+<b>Project Demo Video Link<b><br>https://d2y36twrtb17ty.cloudfront.net/sessions/ed1dcf54-328c-4082-b62a-b1320034cf58/7822c8b0-5466-4446-aae4-b1320034cf5f-fded21e2-8491-4dde-90db-b1320039378b.mp4?invocationId=9e9cc1ec-a9e1-ee11-8291-12c206d2fd2b
